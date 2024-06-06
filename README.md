@@ -1,6 +1,6 @@
-# Laravel Website Admin Panel
+# Laravel And React JS Website Admin Panel
 
-The website admin panel in Laravel is a powerful and intuitive interface that allows administrators to manage and control various aspects of their website. Built with the robust Laravel framework, this admin panel provides a seamless and efficient way to handle administrative tasks, ensuring that the website remains secure, up-to-date, and fully functional.
+The website admin panel in Laravel+ReactJs is a powerful and intuitive interface that allows administrators to manage and control various aspects of their website. Built with the robust Laravel framework, this admin panel provides a seamless and efficient way to handle administrative tasks, ensuring that the website remains secure, up-to-date, and fully functional.
 
 ## Key Features:
 ### Content Management:
